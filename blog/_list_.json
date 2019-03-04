@@ -1,5 +1,6 @@
 {
   "detailed": true,
+  "allow-empty": false,
   "sortable_keys": [
     "last-fetched",
     "_dir_num_files",
