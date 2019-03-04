@@ -1,0 +1,6 @@
+*.swp
+_feed_.json
+*/*/_list_.json
+*.feed.json
+*.tmp
+feed.list

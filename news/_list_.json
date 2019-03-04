@@ -1,0 +1,11 @@
+{
+  "detailed": true,
+  "sortable_keys": [
+    "last-fetched",
+    "_dir_num_files",
+    "failed",
+    "title",
+    "last-updated"
+  ],
+  "view-engine": "feed-folder-view"
+}
